@@ -1,0 +1,31 @@
+{
+   "ViewType":"ListView",
+   "OwnerName":"TestUser",
+   "Vehicles":[
+      {
+         "description":"JCB/3DX/2012",
+         "imageUrl":"https://i.pinimg.com/originals/d1/cc/b2/d1ccb2ab1334df21bb7ee736ed23551e.png",
+         "title":"JCB 3DX"
+      },
+      {
+         "description":"JCB/3DX/2013",
+         "imageUrl":"https://5.imimg.com/data5/ZU/SE/SU/SELLER-423104/jcb-ecoxcellence-backhoe-loader-model-3dx-xtraa-500x500.jpg",
+         "title":"JCB 3DX"
+      },
+      {
+         "description":"JCB/3DX/2014",
+         "imageUrl":"https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/05/jcb-3cx-29-1559029878.jpg",
+         "title":"JCB 3DX"
+      },
+      {
+         "description":"JCB/3DX/2015",
+         "imageUrl":"https://images.cnbctv18.com/wp-content/uploads/2019/05/800px-JCB_3CX_backhoe_loader_Florida_left_side-768x482.jpg",
+         "title":"JCB 3DX"
+      },
+      {
+         "description":"JCB/3DX/2016",
+         "imageUrl":"https://www.senoksl.com/images/site-specific/jcb/jcb/brand-main-image.png",
+         "title":"JCB 3DX"
+      }
+   ]
+}
